@@ -1,4 +1,4 @@
-# Adobe RUM GUI (White Label)
+# Adobe RUM GUI
 
 A customizable, visual interface for the **Adobe Remote Update Manager (RUM)**.
 
